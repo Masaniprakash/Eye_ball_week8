@@ -1,9 +1,9 @@
 # Eye Ball
-## Discription of the Project
-### Move the eye ball direction which direction the curser is moveing.
-### Use the HTMl and CSS for the eye.
+## Description of the Project
+### Move the eye ball direction which direction the cursor is moving.
+### Use the HTML and CSS for the eye.
 ### Use Js for the eye ball movement.
 ## Steps to run the project
-### Step 1: Move the curser where you want
+### Step 1: Move the cursor where you want
 ## Click the link to view the project
 ### https://masaniprakash.github.io/Eye_ball_week8/
